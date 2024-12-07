@@ -5,4 +5,4 @@ first repo
 guac and chips sounds good
 
 ## add 2nd enrty from local machine
-I l'll bring the brews
+I'll bring the brews
